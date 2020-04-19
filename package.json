@@ -1,8 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Polina Kalabukhova",
+	"description": "Learning project",
+	"keywords": ["learning", "freecodecamp"],
+	"license": "my license",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+	
 	},
 	"main": "server.js",
 	"scripts": {
